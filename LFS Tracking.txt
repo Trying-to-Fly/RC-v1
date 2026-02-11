@@ -1,0 +1,1 @@
+git lfs track "*.SLDPRT" "*.SLDASM" "*.SLDDRW" "*.3mf" "*.stl" "*.step" "*.stp" "*.iges" "*.igs" "*.sim"
