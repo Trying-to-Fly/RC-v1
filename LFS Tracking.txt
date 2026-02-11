@@ -1,1 +1,3 @@
+Below is the current LFS tracking, it is important to keep track of this:
+
 git lfs track "*.SLDPRT" "*.SLDASM" "*.SLDDRW" "*.3mf" "*.stl" "*.step" "*.stp" "*.iges" "*.igs" "*.sim"
