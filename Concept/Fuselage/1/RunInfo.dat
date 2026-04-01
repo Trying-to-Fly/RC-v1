@@ -1,0 +1,29 @@
+﻿absolute path:C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1
+init:1
+run_capture:0
+run_solver:1
+new_calc:1
+close_monitor:0
+run_convert:0
+isOK:1
+ForceNewCalc:0
+run_capture_prestate:0
+StartFldName:C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1\1.fld
+NewCalcStartCptName:
+TransTimeMoments:2:0.12:1.5632853701
+TransFldNames:75:C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1\r_000000.fld68:C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1\1.fld
+CurSelTranFld:1
+Trans:1
+UsePrevRes:0
+ForcetoRunCPT:0
+ComputerName:
+port:50708
+ProcessResults:1
+LoadLastResult:1
+ProcessorsToUse:0
+LoadBaseFLDFile:0
+BaseFLDFile:
+id:{B8ADD6B1-BCBD-47E2-9B2C-F03A825F7116}
+calculation_state:5
+ForceContinue:0
+SolverProcessId:45864
