@@ -30,8 +30,8 @@
 <JouleHeating value="0"/>
 <LicenseType value="8"/>
 <ManualSolverRefinement value="0"/>
-<MinimalGapSize value="0.18928462488797215"/>
-<MinimalWallThickness value="0.18928462488797215"/>
+<MinimalGapSize value="0.42467138180760045"/>
+<MinimalWallThickness value="0.42467138180760045"/>
 <NewCalcStartCptName value=""/>
 <PEP value=""/>
 <PerformanceMonitoring value="0"/>
@@ -61,7 +61,7 @@
 <VersionType value="2"/>
 <WallSlipping value="0"/>
 <ComputationalDomainSidesBCTypes size="6"> 0 0 0 0 0 0 </ComputationalDomainSidesBCTypes>
-<ComputationalDomainSize size="6"> -1.4218360270728181 -0.61376546519198694 -2.1965474426173071 1.4218360270728183 0.71122690902381813 0.60886387466391645 </ComputationalDomainSize>
+<ComputationalDomainSize size="6"> -2.1233839507560139 -1.4943073317027431 -3.355076986317032 2.123383950756017 1.47839234095046 1.3034360269827172 </ComputationalDomainSize>
 <DefaultFluids size="1"> 2B966F4A9A9F11D4A50048A0E8000000 </DefaultFluids>
 <DisabledBodiesIDs size="0"> </DisabledBodiesIDs>
 <FluidSubstancesUUID size="1"> 2B966F4A9A9F11D4A50048A0E8000000 </FluidSubstancesUUID>
@@ -183,7 +183,7 @@
 <ExcelParameterLinkedSubId value=""/>
 <ExcelParameterPeriodic value="0"/>
 <ExcelParameterType value="102"/>
-<ExcelParameterValue value="-15"/>
+<ExcelParameterValue value="-11.109999999999999"/>
 <UUID value=""/>
 <Units value="19"/>
 <UseDampedGoalsValues value="0"/>
@@ -1880,9 +1880,9 @@
 <MaxThinChannelRefinementLevel value="1"/>
 <MaximumChannelsThickness value="0"/>
 <MinimumChannelsThickness value="0"/>
-<Nx value="70"/>
+<Nx value="44"/>
 <Ny value="32"/>
-<Nz value="67"/>
+<Nz value="50"/>
 <PartialCellsRefinementLevel value="0"/>
 <RefineAllCells value="0"/>
 <RefineAllFluidCells value="0"/>
@@ -1891,25 +1891,25 @@
 <RefinementLevel value="0"/>
 <SolidCellsRefinementLevel value="0"/>
 <ToleranceCriteriaRefinementLevel value="0"/>
-<ToleranceCriteriaValue value="0.047321156221993038"/>
+<ToleranceCriteriaValue value="0.10616784545190011"/>
 <DistanceRefinementLevels size="2"> 0 0 </DistanceRefinementLevels>
 <ControlPoints index="0">
 <Manual size="5"> 0 0 0 0 0 </Manual>
-<NumOfCells size="5"> 10 21 21 14 1 </NumOfCells>
-<Points size="5"> -1.4218360270728181 -0.83690250936072375 5.5511151231257827e-17 0.83690250936072386 1.4218360270728183 </Points>
-<Ratio size="5"> 1.7050000000000001 1 1 0.58658191630504741 1 </Ratio>
+<NumOfCells size="5"> 10 8 8 13 1 </NumOfCells>
+<Points size="5"> -2.1233839507560139 -0.83238240922654849 1.3877787807814457e-15 0.83238240922655127 2.123383950756017 </Points>
+<Ratio size="5"> 1.7130000000000001 1 1 0.58373072088939204 1 </Ratio>
 </ControlPoints>
 <ControlPoints index="1">
 <Manual size="5"> 0 0 0 0 0 </Manual>
 <NumOfCells size="5"> 10 2 2 15 1 </NumOfCells>
-<Points size="5"> -0.61376546519198694 -0.044018744279190773 0.048730721915915577 0.14148018811102192 0.71122690902381813 </Points>
+<Points size="5"> -1.4943073317027431 -0.2160464724618657 -0.0079574953761414879 0.20013148170958273 1.47839234095046 </Points>
 <Ratio size="5"> 1.8149999999999999 1 1 0.55087127599775143 1 </Ratio>
 </ControlPoints>
 <ControlPoints index="2">
 <Manual size="5"> 0 0 0 0 0 </Manual>
-<NumOfCells size="5"> 10 25 16 12 1 </NumOfCells>
-<Points size="5"> -2.1965474426173071 -1.6286935679533907 -0.60455715908872321 0.078866924977594441 0.60886387466391645 </Points>
-<Ratio size="5"> 1.6830000000000001 1 1 0.61205962889774324 1 </Ratio>
+<NumOfCells size="5"> 10 16 7 13 1 </NumOfCells>
+<Points size="5"> -3.355076986317032 -2.0810628408942309 -0.60114909785955695 0.11435615792143589 1.3034360269827172 </Points>
+<Ratio size="5"> 1.694 1 1 0.6079622444519418 1 </Ratio>
 </ControlPoints>
 </BaseMeshSettings>
 <ConvergenceOptions index="0">
@@ -2991,7 +2991,7 @@
 <GeomMeshType value="1"/>
 <GeomType value="0"/>
 <GeomUUID value="00000000-0000-0000-0000-000000000000"/>
-<BodiesIDs size="1"> 844078f6-3781-4315-8b3d-e4263568fc31 </BodiesIDs>
+<BodiesIDs size="1"> 793627ad-d97d-43ef-b0ce-7e4481c579b0 </BodiesIDs>
 </Geometry>
 <ReferenceParameters index="0">
 <ConstTemperature value="293.19999999999999"/>
