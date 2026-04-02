@@ -1,6 +1,6 @@
-2026-Apr-02 01:24:28
-Computer name:	DESKTOP-QJTI7HF
-Number of cores used in calculation:	24
+2026-Apr-02 14:44:24
+Computer name:	LAPTOP-4RGB3H20
+Number of cores used in calculation:	16
 Configuration name:	Default
 Project name:	Project(1)
 

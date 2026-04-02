@@ -1,4 +1,4 @@
-﻿absolute path:C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1
+﻿absolute path:C:\Users\M0obo\Desktop\RC-v1\Concept\Fuselage\1
 init:1
 run_capture:1
 run_solver:1
@@ -8,7 +8,7 @@ run_convert:0
 isOK:1
 ForceNewCalc:1
 run_capture_prestate:1
-StartFldName:C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1\1.fld
+StartFldName:C:\Users\M0obo\Desktop\RC-v1\Concept\Fuselage\1\1.fld
 NewCalcStartCptName:
 TransTimeMoments:
 TransFldNames:
@@ -17,13 +17,13 @@ Trans:0
 UsePrevRes:0
 ForcetoRunCPT:1
 ComputerName:
-port:57767
+port:59026
 ProcessResults:1
 LoadLastResult:1
 ProcessorsToUse:0
 LoadBaseFLDFile:0
 BaseFLDFile:
-id:{972888D3-6725-41E4-82BF-72AD9E0BE09F}
+id:{70DBFC6D-C3F1-4730-836A-69FE08A847B7}
 calculation_state:5
 ForceContinue:0
-SolverProcessId:20280
+SolverProcessId:30248

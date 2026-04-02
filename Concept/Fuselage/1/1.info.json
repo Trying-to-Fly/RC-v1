@@ -3,36 +3,36 @@
     "model_name": "Fuselage Concept.SLDPRT",
     "project_name": "Project(1)",
     "config_name": "Default",
-    "project_path": "C:\\Users\\M0obo\\OneDrive\\Desktop\\RC Plane v1\\Concept\\Fuselage\\1\\1.xmlconfig",
+    "project_path": "C:\\Users\\M0obo\\Desktop\\RC-v1\\Concept\\Fuselage\\1\\1.xmlconfig",
     "finished": true,
     "mesh": {
-        "cells_total": 119001,
-        "cells_fluid": 119001,
-        "cells_solid": 1472,
-        "cells_fluid_containing_solid": 1606
+        "cells_total": 86132,
+        "cells_fluid": 86132,
+        "cells_solid": 882,
+        "cells_fluid_containing_solid": 1038
     },
     "telemetry": {
-        "prepare_geometry_finished": "01:24:08-0400",
-        "prepare_geometry_total_time": 1,
-        "cpu_time_solver_total": 23,
-        "iteration": 99,
-        "travel": 1.006363778336261,
+        "prepare_geometry_finished": "14:44:03-0400",
+        "prepare_geometry_total_time": 2,
+        "cpu_time_solver_total": 24,
+        "iteration": 89,
+        "travel": 1.007639465161529,
         "phys_time": 0.0,
         "time_step": 0.0,
-        "last_iteration_finished": "01:24:28-0400",
+        "last_iteration_finished": "14:44:24-0400",
         "cpu_time_per_last_iter": 0,
-        "cpu_time_left": 59,
-        "iterations_per_travel": 99
+        "cpu_time_left": 53,
+        "iterations_per_travel": 89
     },
     "goals": [
         {
             "goal": {
                 "name": "GG Force (Y) 1",
                 "unit": "force",
-                "value": 14.23862597085519,
+                "value": 18.360623381532008,
                 "progress": 100.0,
-                "criteria": 0.13638478192472236,
-                "delta": 0.12737332988620764,
+                "criteria": 0.24259691316988163,
+                "delta": 0.06870160307728312,
                 "use_in_convergence": true
             }
         },
@@ -40,10 +40,10 @@
             "goal": {
                 "name": "GG Force (Z) 2",
                 "unit": "force",
-                "value": -2.234645400300187,
+                "value": -5.426567357991326,
                 "progress": 100.0,
-                "criteria": 0.08320179075584697,
-                "delta": 0.016814663885245995,
+                "criteria": 0.12912960196196363,
+                "delta": 0.023749526727120163,
                 "use_in_convergence": true
             }
         },
@@ -51,10 +51,10 @@
             "goal": {
                 "name": "GG Torque (X) 3",
                 "unit": "momentum",
-                "value": 4.686544555096745,
+                "value": 5.992699931254476,
                 "progress": 100.0,
-                "criteria": 0.06886953049922709,
-                "delta": 0.0553982583971262,
+                "criteria": 0.11043338437214381,
+                "delta": 0.024996080235619722,
                 "use_in_convergence": true
             }
         }
@@ -76,14 +76,14 @@
         "electromagnetism": false
     },
     "system_info": {
-        "product_name": "Flow Simulation 2026  x64 / 6837 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
-        "cad_version": "SOLIDWORKS 2026 SP0.0",
-        "computer_name": "DESKTOP-QJTI7HF",
+        "product_name": "Flow Simulation 2026  x64 / 6939 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2026 SP1.1",
+        "computer_name": "LAPTOP-4RGB3H20",
         "user_name": "M0obo",
         "os": "Windows 11 (or higher) (Version 10.0.26200)",
-        "cpu": "Intel(R) Core(TM) Ultra 9 285",
-        "number_of_cores": 24,
-        "memory_avail": 12005,
-        "memory_total": 32467
+        "cpu": "Intel(R) Core(TM) Ultra 9 285H",
+        "number_of_cores": 16,
+        "memory_avail": 16573,
+        "memory_total": 32189
     }
 }

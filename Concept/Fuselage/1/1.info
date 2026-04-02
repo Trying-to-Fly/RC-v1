@@ -1,33 +1,33 @@
 Model: Fuselage Concept.SLDPRT
 Project name: Project(1)
 Config name: Default
-Project path: C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1\1.xmlconfig
+Project path: C:\Users\M0obo\Desktop\RC-v1\Concept\Fuselage\1\1.xmlconfig
 Status: Finished
 
 Number of cells:
-    Total cells: 119001
-    Fluid cells: 119001
-    Solid cells: 1472
-    Fluid cells containing solids: 1606
+    Total cells: 86132
+    Fluid cells: 86132
+    Solid cells: 882
+    Fluid cells containing solids: 1038
 
 
-Geometry preparation finished: 01:24:08
-Geometry preparation time: 00:00:01
-Solver CPU time: 00:00:23
-Iterations: 99
-Travels: 1.00636
+Geometry preparation finished: 14:44:03
+Geometry preparation time: 00:00:02
+Solver CPU time: 00:00:24
+Iterations: 89
+Travels: 1.00764
 Physical time: 0.000000e+00 s
 Current time step: 0.000000e+00 s
-Last iteration finished: 01:24:28
+Last iteration finished: 14:44:24
 CPU time per last iteration: 00:00:00
-CPU time left: 00:00:59
-Iterations per 1 travel: 99
+CPU time left: 00:00:53
+Iterations per 1 travel: 89
 
 Goals
     Name            | Unit (SI) | Value           | Progress  | Critetia        | Delta           | Use in convergence
-    GG Force (Y) 1  | force    |           14.24 |     100.0 |            0.14 |            0.13 | On
-    GG Force (Z) 2  | force    |           -2.23 |     100.0 |            0.08 |            0.02 | On
-    GG Torque (X) 3 | momentum |            4.69 |     100.0 |            0.07 |            0.06 | On
+    GG Force (Y) 1  | force    |           18.36 |     100.0 |            0.24 |            0.07 | On
+    GG Force (Z) 2  | force    |           -5.43 |     100.0 |            0.13 |            0.02 | On
+    GG Torque (X) 3 | momentum |            5.99 |     100.0 |            0.11 |            0.02 | On
 
 Project details
     Default fluids: Air
@@ -44,12 +44,12 @@ Project details
     Electromagnetism: Off
 
 System info
-    Product: Flow Simulation 2026  x64 / 6837 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2
-    CAD version: SOLIDWORKS 2026 SP0.0
-    Computer name: DESKTOP-QJTI7HF
+    Product: Flow Simulation 2026  x64 / 6939 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2
+    CAD version: SOLIDWORKS 2026 SP1.1
+    Computer name: LAPTOP-4RGB3H20
     User name: M0obo
     Operating system: Windows 11 (or higher) (Version 10.0.26200)
-    Processors: Intel(R) Core(TM) Ultra 9 285
-    Number of cores: 24
-    Memory: 12005 MB / 32467 MB
+    Processors: Intel(R) Core(TM) Ultra 9 285H
+    Number of cores: 16
+    Memory: 16573 MB / 32189 MB
 
