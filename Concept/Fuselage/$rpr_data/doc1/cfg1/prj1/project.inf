@@ -5,8 +5,8 @@
 	<uuid>da9e1bed-7792-4e1e-88f2-0338ae07b467</uuid>
 	<directory>prj1</directory>
 	<vwr_res_files_dir>1</vwr_res_files_dir>
-	<geom_db_uuid>5e83dbfa-694c-4fae-93b7-b0fd2590b213</geom_db_uuid>
-	<gdb_light_uuid>b595864b-9b43-4e19-8d3a-cfe763595e89</gdb_light_uuid>
-	<model_geom_uuid>ecb54da8-0925-48e3-8885-88f293d4cd62</model_geom_uuid>
+	<geom_db_uuid>aabf1660-ab59-46d8-9cd9-8b6f8acae741</geom_db_uuid>
+	<gdb_light_uuid>a2d7eca4-7ef1-40c7-a230-5938da68e099</gdb_light_uuid>
+	<model_geom_uuid>c9e7d271-79a7-486f-90bc-950c8ff563dc</model_geom_uuid>
 	<template_id/>
 </project>

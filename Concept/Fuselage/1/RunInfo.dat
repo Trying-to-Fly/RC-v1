@@ -1,4 +1,4 @@
-﻿absolute path:C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1
+﻿absolute path:C:\Users\herbe\OneDrive\Documentos\Plane Project\RC-v1\Concept\Fuselage\1
 init:1
 run_capture:1
 run_solver:1
@@ -8,22 +8,22 @@ run_convert:0
 isOK:1
 ForceNewCalc:1
 run_capture_prestate:1
-StartFldName:C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1\1.fld
+StartFldName:C:\Users\herbe\OneDrive\Documentos\Plane Project\RC-v1\Concept\Fuselage\1\1.fld
 NewCalcStartCptName:
-TransTimeMoments:2:0.12:2.8324702863
-TransFldNames:75:C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1\r_000000.fld68:C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1\1.fld
+TransTimeMoments:2:0.13:4.87126732513
+TransFldNames:86:C:\Users\herbe\OneDrive\Documentos\Plane Project\RC-v1\Concept\Fuselage\1\r_000000.fld79:C:\Users\herbe\OneDrive\Documentos\Plane Project\RC-v1\Concept\Fuselage\1\1.fld
 CurSelTranFld:1
 Trans:1
 UsePrevRes:0
 ForcetoRunCPT:1
 ComputerName:
-port:56493
+port:63681
 ProcessResults:1
 LoadLastResult:1
 ProcessorsToUse:0
 LoadBaseFLDFile:0
 BaseFLDFile:
-id:{A398EDA2-92E0-4ACA-8F00-6E7E88E71154}
+id:{FBDBD37E-92AF-41E6-BD67-A335B8A9A2B0}
 calculation_state:5
 ForceContinue:0
-SolverProcessId:39396
+SolverProcessId:7828
