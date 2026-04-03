@@ -3,36 +3,36 @@
     "model_name": "Fuselage Concept.SLDPRT",
     "project_name": "V1 Analysis 1",
     "config_name": "Default",
-    "project_path": "C:\\Users\\herbe\\OneDrive\\Documentos\\Plane Project\\RC-v1\\Concept\\Fuselage\\1\\1.xmlconfig",
+    "project_path": "C:\\Users\\M0obo\\OneDrive\\Desktop\\RC Plane v1\\Concept\\Fuselage\\1\\1.xmlconfig",
     "finished": true,
     "mesh": {
-        "cells_total": 119005,
-        "cells_fluid": 119005,
-        "cells_solid": 1404,
-        "cells_fluid_containing_solid": 1572
+        "cells_total": 648673,
+        "cells_fluid": 648673,
+        "cells_solid": 6061,
+        "cells_fluid_containing_solid": 5720
     },
     "telemetry": {
-        "prepare_geometry_finished": "17:39:06-0400",
-        "prepare_geometry_total_time": 2,
-        "cpu_time_solver_total": 182,
-        "iteration": 302,
-        "travel": 1.2285386296657692,
-        "phys_time": 2.1996157580727767,
-        "time_step": 0.007818337827424334,
-        "last_iteration_finished": "17:42:03-0400",
+        "prepare_geometry_finished": "17:54:30-0400",
+        "prepare_geometry_total_time": 5,
+        "cpu_time_solver_total": 470,
+        "iteration": 438,
+        "travel": 1.011802856290722,
+        "phys_time": 1.2692138904879424,
+        "time_step": 0.003036669349676819,
+        "last_iteration_finished": "18:02:08-0400",
         "cpu_time_per_last_iter": 1,
-        "cpu_time_left": 753,
-        "iterations_per_travel": 246
+        "cpu_time_left": 3038,
+        "iterations_per_travel": 433
     },
     "goals": [
         {
             "goal": {
                 "name": "GG Force (Y) 1",
                 "unit": "force",
-                "value": 8.560431003404588,
+                "value": 9.246481317886287,
                 "progress": 100.0,
-                "criteria": 0.14817518726227713,
-                "delta": 0.08976913651391527,
+                "criteria": 0.10041746847694366,
+                "delta": 0.05736123886144817,
                 "use_in_convergence": true
             }
         },
@@ -40,10 +40,10 @@
             "goal": {
                 "name": "GG Force (Z) 2",
                 "unit": "force",
-                "value": -1.340083764892187,
+                "value": -1.3234246935168557,
                 "progress": 100.0,
-                "criteria": 0.06358983009084294,
-                "delta": 0.0016400834797201114,
+                "criteria": 0.05411013204680476,
+                "delta": 0.008497117485045669,
                 "use_in_convergence": true
             }
         },
@@ -51,10 +51,10 @@
             "goal": {
                 "name": "GG Torque (X) 3",
                 "unit": "momentum",
-                "value": 2.8584200973896117,
+                "value": 3.1546154583147024,
                 "progress": 100.0,
-                "criteria": 0.08405160405792007,
-                "delta": 0.02522814132120077,
+                "criteria": 0.041183548692701605,
+                "delta": 0.03414111956850929,
                 "use_in_convergence": true
             }
         }
@@ -76,14 +76,14 @@
         "electromagnetism": false
     },
     "system_info": {
-        "product_name": "Flow Simulation 2026  x64 / 6939 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
-        "cad_version": "SOLIDWORKS 2026 SP1.1",
-        "computer_name": "HERBERT",
-        "user_name": "herbe",
+        "product_name": "Flow Simulation 2026  x64 / 6837 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2026 SP0.0",
+        "computer_name": "DESKTOP-QJTI7HF",
+        "user_name": "M0obo",
         "os": "Windows 11 (or higher) (Version 10.0.26200)",
-        "cpu": "AMD Ryzen 9 270 w/ Radeon 780M Graphics        ",
-        "number_of_cores": 16,
-        "memory_avail": 1911,
-        "memory_total": 15661
+        "cpu": "Intel(R) Core(TM) Ultra 9 285",
+        "number_of_cores": 24,
+        "memory_avail": 12355,
+        "memory_total": 32467
     }
 }

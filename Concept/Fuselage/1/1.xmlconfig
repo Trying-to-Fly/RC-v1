@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings product="FLOEFD" version ="1">
-<CADVersionInfo value="SOLIDWORKS 2026 SP1.1"/>
+<CADVersionInfo value="SOLIDWORKS 2026 SP0.0"/>
 <CHT_On_UNM value="0"/>
 <Compressibility value="0"/>
 <EducationalVersion value="0"/>
@@ -25,13 +25,13 @@
 <IsRealGasInProject value="0"/>
 <IsRefDensityUsedForCalcWithGravity value="1"/>
 <IsSteamInProject value="0"/>
-<JobOwnerName value="HERBERT\herbe"/>
+<JobOwnerName value="DESKTOP-QJTI7HF\M0obo"/>
 <JobProjectName value="No Propeller"/>
 <JouleHeating value="0"/>
 <LicenseType value="8"/>
 <ManualSolverRefinement value="0"/>
-<MinimalGapSize value="0.23063535564375665"/>
-<MinimalWallThickness value="0.23063535564375665"/>
+<MinimalGapSize value="0.23127837435176457"/>
+<MinimalWallThickness value="0.23127837435176457"/>
 <NewCalcStartCptName value=""/>
 <PEP value=""/>
 <PerformanceMonitoring value="0"/>
@@ -44,7 +44,7 @@
 <RadiationEnabled value="0"/>
 <RadiationModel value="-1"/>
 <RealGasWithPhaseChange value="0"/>
-<ResultResolution value="2"/>
+<ResultResolution value="4"/>
 <RotateCoordSystem value="0"/>
 <SaveFlowmasterData value="1"/>
 <SolarRadiation_Enabled value="0"/>
@@ -61,7 +61,7 @@
 <VersionType value="2"/>
 <WallSlipping value="0"/>
 <ComputationalDomainSidesBCTypes size="6"> 0 0 0 0 0 0 </ComputationalDomainSidesBCTypes>
-<ComputationalDomainSize size="6"> -1.5412814788092248 -0.76422500160593809 -2.4005201114676922 1.5412814788092439 0.85022248790035859 0.73579514873253182 </ComputationalDomainSize>
+<ComputationalDomainSize size="6"> -1.5432049283964648 -0.76615405772996181 -2.4037352050077319 1.5432049283964511 0.85279456273239018 0.73772420485655554 </ComputationalDomainSize>
 <DefaultFluids size="1"> 2B966F4A9A9F11D4A50048A0E8000000 </DefaultFluids>
 <DisabledBodiesIDs size="0"> </DisabledBodiesIDs>
 <FluidSubstancesUUID size="1"> 2B966F4A9A9F11D4A50048A0E8000000 </FluidSubstancesUUID>
@@ -1863,7 +1863,7 @@
 <BaseMeshSettings index="0">
 <AllCellsRefinementLevel value="0"/>
 <CaptureLevel value="1"/>
-<CellPerGap value="5"/>
+<CellPerGap value="10"/>
 <ChannelRefinementMethod value="0"/>
 <CurvatureRefinementCriteria value="0.10000000000000009"/>
 <CurvatureUnrefinementCriteria value="0"/>
@@ -1880,9 +1880,9 @@
 <MaxThinChannelRefinementLevel value="1"/>
 <MaximumChannelsThickness value="0"/>
 <MinimumChannelsThickness value="0"/>
-<Nx value="60"/>
-<Ny value="32"/>
-<Nz value="61"/>
+<Nx value="112"/>
+<Ny value="50"/>
+<Nz value="115"/>
 <PartialCellsRefinementLevel value="0"/>
 <RefineAllCells value="0"/>
 <RefineAllFluidCells value="0"/>
@@ -1891,25 +1891,25 @@
 <RefinementLevel value="0"/>
 <SolidCellsRefinementLevel value="0"/>
 <ToleranceCriteriaRefinementLevel value="0"/>
-<ToleranceCriteriaValue value="0.057658838910939161"/>
+<ToleranceCriteriaValue value="0.057819593587941143"/>
 <DistanceRefinementLevels size="2"> 0 0 </DistanceRefinementLevels>
 <ControlPoints index="0">
 <Manual size="5"> 0 0 0 0 0 </Manual>
-<NumOfCells size="5"> 10 16 16 14 1 </NumOfCells>
-<Points size="5"> -1.5412814788092248 -0.8323879036403955 9.6589403142388619e-15 0.83238790364041482 1.5412814788092439 </Points>
-<Ratio size="5"> 1.704 1 1 0.586688940350796 1 </Ratio>
+<NumOfCells size="5"> 11 34 34 29 1 </NumOfCells>
+<Points size="5"> -1.5432049283964648 -0.83238240923434781 -6.9388939039072284e-15 0.83238240923433393 1.5432049283964511 </Points>
+<Ratio size="5"> 4.8730000000000002 1 1 0.20523252751577734 1 </Ratio>
 </ControlPoints>
 <ControlPoints index="1">
 <Manual size="5"> 0 0 0 0 0 </Manual>
-<NumOfCells size="5"> 10 2 2 15 1 </NumOfCells>
-<Points size="5"> -0.76422500160593809 -0.070012581118230527 0.042998743147210243 0.156010067412651 0.85022248790035859 </Points>
-<Ratio size="5"> 1.8149999999999999 1 1 0.55087127599775143 1 </Ratio>
+<NumOfCells size="5"> 11 4 4 28 1 </NumOfCells>
+<Points size="5"> -0.76615405772996181 -0.070006150931150438 0.043320252501214192 0.15664665593357882 0.85279456273239018 </Points>
+<Ratio size="5"> 5.0640000000000001 1 1 0.19747447608812457 1 </Ratio>
 </ControlPoints>
 <ControlPoints index="2">
 <Manual size="5"> 0 0 0 0 0 </Manual>
-<NumOfCells size="5"> 10 22 13 12 1 </NumOfCells>
-<Points size="5"> -2.4005201114676922 -1.7086140445364224 -0.60172712572382359 0.090016152930013221 0.73579514873253182 </Points>
-<Ratio size="5"> 1.6850000000000001 1 1 0.61119287397071187 1 </Ratio>
+<NumOfCells size="5"> 11 46 28 26 1 </NumOfCells>
+<Points size="5"> -2.4037352050077319 -1.7099000819524381 -0.60172712572382359 0.090144756671614798 0.73772420485655554 </Points>
+<Ratio size="5"> 4.7990000000000004 1 1 0.21712267730157769 1 </Ratio>
 </ControlPoints>
 </BaseMeshSettings>
 <ConvergenceOptions index="0">
@@ -2938,8 +2938,8 @@
 </ExcelParameter>
 </ExcelParameterCollection>
 <ExportProjectToNastran index="0">
-<ExportProjectToNastran_FilePath value="C:\Users\herbe\OneDrive\Documentos\Plane Project\RC-v1\Concept\Fuselage\1\V1 Analysis 1.dat"/>
-<ExportProjectToNastran_NastranSolverOutputDirectory value="C:\Users\herbe\OneDrive\Documentos\Plane Project\RC-v1\Concept\Fuselage\1\nastran"/>
+<ExportProjectToNastran_FilePath value="C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1\V1 Analysis 1.dat"/>
+<ExportProjectToNastran_NastranSolverOutputDirectory value="C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Fuselage\1\nastran"/>
 </ExportProjectToNastran>
 <FMUImport index="0">
 </FMUImport>
@@ -2991,7 +2991,7 @@
 <GeomMeshType value="1"/>
 <GeomType value="0"/>
 <GeomUUID value="00000000-0000-0000-0000-000000000000"/>
-<BodiesIDs size="1"> cb33d178-468a-4157-b636-a0ee40873592 </BodiesIDs>
+<BodiesIDs size="1"> 8144aeb7-d4f4-4bb0-a262-c7bdf18e553f </BodiesIDs>
 </Geometry>
 <ReferenceParameters index="0">
 <ConstTemperature value="293.19999999999999"/>
