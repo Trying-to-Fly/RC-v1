@@ -1,7 +1,0 @@
-2026-Apr-02 14:44:24
-Computer name:	LAPTOP-4RGB3H20
-Number of cores used in calculation:	16
-Configuration name:	Default
-Project name:	Project(1)
-
-Warnings on last iteration: 

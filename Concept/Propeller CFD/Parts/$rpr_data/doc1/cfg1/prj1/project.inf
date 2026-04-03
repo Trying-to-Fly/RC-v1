@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>Prop CFD Just prop test</name>
+	<uuid>03fa4924-237a-44eb-a766-79bc77dc99d9</uuid>
+	<directory>prj1</directory>
+	<vwr_res_files_dir>1</vwr_res_files_dir>
+	<geom_db_uuid>cd7a2c09-83dc-4f10-877c-9cf7f99c601d</geom_db_uuid>
+	<gdb_light_uuid>4ba21dda-a4ae-4f38-b996-fadec84f5d0b</gdb_light_uuid>
+	<model_geom_uuid/>
+	<template_id/>
+</project>
