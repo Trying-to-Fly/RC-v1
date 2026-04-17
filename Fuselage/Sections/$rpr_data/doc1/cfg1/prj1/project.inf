@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>Nose Airflow</name>
+	<uuid>f3310a9d-a498-4054-9cf4-e1826090bf87</uuid>
+	<directory>prj1</directory>
+	<vwr_res_files_dir>1</vwr_res_files_dir>
+	<geom_db_uuid>699a993f-c76a-4c26-bc2e-70ccb98aa34f</geom_db_uuid>
+	<gdb_light_uuid>3bc4564d-a3b1-4372-be4d-3e90f500976f</gdb_light_uuid>
+	<model_geom_uuid/>
+	<template_id/>
+</project>
