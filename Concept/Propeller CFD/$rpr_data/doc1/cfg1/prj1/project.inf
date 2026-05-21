@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>Propeller CFD</name>
+	<uuid>986040e6-f08d-4480-be33-5cdf0695d031</uuid>
+	<directory>prj1</directory>
+	<vwr_res_files_dir>1</vwr_res_files_dir>
+	<geom_db_uuid>bfb1ba16-7570-4661-b39d-02d2a2f79945</geom_db_uuid>
+	<gdb_light_uuid>d32efd36-0914-407a-bd50-49bf278134de</gdb_light_uuid>
+	<model_geom_uuid>4acf2aeb-b8a1-496e-96af-d3d4dcb12fb7</model_geom_uuid>
+	<template_id/>
+</project>

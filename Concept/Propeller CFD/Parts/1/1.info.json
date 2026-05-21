@@ -1,0 +1,78 @@
+{
+    "version": 0,
+    "model_name": "Nosecone and Propeller.SLDPRT",
+    "project_name": "Prop CFD Just prop test",
+    "config_name": "Default",
+    "project_path": "C:\\Users\\M0obo\\OneDrive\\Desktop\\RC Plane v1\\Concept\\Propeller CFD\\Parts\\1\\1.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 57578,
+        "cells_fluid": 57578,
+        "cells_solid": 394,
+        "cells_fluid_containing_solid": 458
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "20:21:41-0400",
+        "prepare_geometry_total_time": 1,
+        "cpu_time_solver_total": 48,
+        "iteration": 204,
+        "travel": 2.641483982579703,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": "20:22:26-0400",
+        "cpu_time_per_last_iter": 1,
+        "cpu_time_left": 6,
+        "iterations_per_travel": 78
+    },
+    "goals": [
+        {
+            "goal": {
+                "name": "GG Average Velocity (Z) 1",
+                "unit": "speed and velocity",
+                "value": -1.2219666707350931,
+                "progress": 100.0,
+                "criteria": 0.023209266878022924,
+                "delta": 0.01671081871862312,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Force (Z) 2",
+                "unit": "force",
+                "value": 5.15208400423489,
+                "progress": 100.0,
+                "criteria": 0.8274267416497018,
+                "delta": 0.8007915608718976,
+                "use_in_convergence": true
+            }
+        }
+    ],
+    "settings": {
+        "default_fluids": [
+            "Air"
+        ],
+        "analysis_type": "external",
+        "heat_conduction_in_solids": false,
+        "radiation": false,
+        "time_dependent": false,
+        "gravity": false,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2026  x64 / 6837 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2026 SP0.0",
+        "computer_name": "DESKTOP-QJTI7HF",
+        "user_name": "M0obo",
+        "os": "Windows 11 (or higher) (Version 10.0.26200)",
+        "cpu": "Intel(R) Core(TM) Ultra 9 285",
+        "number_of_cores": 24,
+        "memory_avail": 15664,
+        "memory_total": 32467
+    }
+}
