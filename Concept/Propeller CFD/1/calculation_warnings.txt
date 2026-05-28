@@ -1,0 +1,7 @@
+2026-Apr-02 20:44:59
+Computer name:	DESKTOP-QJTI7HF
+Number of cores used in calculation:	24
+Configuration name:	Default
+Project name:	Propeller CFD
+
+Warnings on last iteration: 

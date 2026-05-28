@@ -1,0 +1,29 @@
+﻿absolute path:C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Propeller CFD\Parts\1
+init:1
+run_capture:1
+run_solver:1
+new_calc:1
+close_monitor:0
+run_convert:0
+isOK:1
+ForceNewCalc:0
+run_capture_prestate:0
+StartFldName:C:\Users\M0obo\OneDrive\Desktop\RC Plane v1\Concept\Propeller CFD\Parts\1\1.fld
+NewCalcStartCptName:
+TransTimeMoments:
+TransFldNames:
+CurSelTranFld:0
+Trans:0
+UsePrevRes:0
+ForcetoRunCPT:0
+ComputerName:
+port:55556
+ProcessResults:1
+LoadLastResult:1
+ProcessorsToUse:0
+LoadBaseFLDFile:0
+BaseFLDFile:
+id:{E766DDB1-B085-4438-AA35-1F33E3BC4B2F}
+calculation_state:5
+ForceContinue:0
+SolverProcessId:48132
